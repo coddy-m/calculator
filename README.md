@@ -34,7 +34,7 @@ Built with pure **HTML, CSS, and JavaScript** — no frameworks required.
 
 ## 🚀 How to Use
 
-1. Download the file `ultimate-calculator.html`
+1. Download the file `index.html`
 2. Open the file in any modern web browser (Chrome, Firefox, Edge, Safari)
 3. No installation or server required — works completely offline
 
